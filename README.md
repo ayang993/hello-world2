@@ -1,3 +1,4 @@
 # hello-world2
 learning
-i think i deleted the first pull request
+
+can't afford school, learning to program instead
